@@ -1,0 +1,12 @@
+site_name: MCG脚本教程
+theme:
+  name: material
+  features:
+    - navigation.footer
+    - navigation.sections
+    - navigation.indexes
+repo_url: https://github.com/MineCraftGensoukyo/Tutorial
+
+nav:
+  - 前言: index.md
+  - 搭建环境: script-environment-build.md
