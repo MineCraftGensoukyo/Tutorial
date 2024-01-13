@@ -8,7 +8,7 @@
 
 将压缩包里的mod放入MCG客户端的mods里面
 
-在之后你就可以在脚本方块等的语言里面看到
+在之后你就可以在脚本方块的语言里面看到
 
 - `pooled-kolin`
 - `pooled-kolin-loader`
