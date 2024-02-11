@@ -5,7 +5,7 @@
 - [点我下载Zulu JDK](https://www.azul.com/downloads/?version=java-8-lts&os=windows&architecture=x86-64-bit&package=jdk#zulu)
 - 无脑下一步
 
-##  下载 IDEA
+## 下载 IDEA
 
 - 请打开[idea community](https://www.jetbrains.com/idea/download/?section=windows)，向下翻找找到`IntelliJ IDEA Community Edition`
 
@@ -16,6 +16,16 @@
 - 无脑下一步
 
 - 恭喜你完成了
+
+## 为 IDEA 添加中文（可选）
+
+打开IDEA，在侧边栏找到`Plugins`，搜索`Chinese`
+
+找到图标是“汉”的插件，安装他
+
+IDEA 会提示你需要重启，这时重启即可
+
+TODO：添加示例图片
 
 ## 下载开发环境
 
