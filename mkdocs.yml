@@ -11,3 +11,4 @@ nav:
   - 搭建环境:
     - 编写环境: build-enviroment/edit-enviroment.md
     - 运行环境: build-enviroment/running-enviroment.md
+  - 脚本入门: script-tutorial/MCGScriptABC.md
