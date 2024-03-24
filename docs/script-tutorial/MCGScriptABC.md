@@ -16,7 +16,7 @@
 
 推荐下载IDEA社区版：
 
-![图形用户界面, 文本, 应用程序 描述已自动生成](media/5cd92dcb20a2b5139c3a6e8cb0a1eacb.png)
+![图形用户界面, 文本, 应用程序 描述已自动生成](MCGScriptABC/media/image1.png)
 
 打开IDEA进行环境配置，环境配置方法参见群文件《脚本编写环境构建教程_v1》
 
