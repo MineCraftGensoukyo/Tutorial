@@ -36,9 +36,9 @@
 
 ## 使用cnpc的网页文档进行脚本开发
 
-首先介绍一个网址：Overview (kodevelopment.nl)，这个网址包括了cnpc提供的一切接口和方法（部分方法可能不可用，具体可以在IDEA中查看CustomNPCs_1.12.2-(05Jul20)-deobf.jar中的方法），这个网址是脚本编写过程中的“大词典”，接下来的内容中统称为“api文档”。收藏该网址后就可以着手开始脚本开发了。
+首先介绍一个网址：[Overview](http://www.kodevelopment.nl/customnpcs/api/)，这个网址包括了cnpc提供的一切接口和方法（部分方法可能不可用，具体可以在IDEA中查看CustomNPCs_1.12.2-(05Jul20)-deobf.jar中的方法），这个网址是脚本编写过程中的“大词典”，接下来的内容中统称为“api文档”。收藏该网址后就可以着手开始脚本开发了。
 
-以上面完成的输出“Hello World”的脚本为例，在编写脚本前，我们首先应该考虑如果使脚本运行，即脚本的运行条件，是被玩家右击互动时？还是受到攻击时？或是每tick都需要执行？这些运行事件统称为事件（event），而能够侦测到这些事情发生的侦测器称为钩子（hook），对于一个npc，钩子列表可以在api文档中查看：NpcEvent (kodevelopment.nl)，表格中最右一列Description就是这些钩子的名称。当我们在程序中使用这些钩子作为函数时，npc遇见这些事件时就会执行脚本内容。
+以上面完成的输出“Hello World”的脚本为例，在编写脚本前，我们首先应该考虑如果使脚本运行，即脚本的运行条件，是被玩家右击互动时？还是受到攻击时？或是每tick都需要执行？这些运行事件统称为事件（event），而能够侦测到这些事情发生的侦测器称为钩子（hook），对于一个npc，钩子列表可以在api文档中查看：[NpcEvent](http://www.kodevelopment.nl/customnpcs/api/1.12.2/noppes/npcs/api/event/NpcEvent.html)，表格中最右一列Description就是这些钩子的名称。当我们在程序中使用这些钩子作为函数时，npc遇见这些事件时就会执行脚本内容。
 
 ![图形用户界面, 文本 描述已自动生成](MCGScriptABC/media/image6.png)
 
